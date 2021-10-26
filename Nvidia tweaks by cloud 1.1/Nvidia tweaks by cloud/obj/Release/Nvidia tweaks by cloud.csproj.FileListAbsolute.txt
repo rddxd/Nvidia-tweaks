@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Nvidia tweaks by cloud\Nvidia tweaks by cloud\bin\Release\Nvidia tweaks by cloud.exe.config
+C:\Users\Administrator\source\repos\Nvidia tweaks by cloud\Nvidia tweaks by cloud\bin\Release\Nvidia tweaks by cloud.exe
+C:\Users\Administrator\source\repos\Nvidia tweaks by cloud\Nvidia tweaks by cloud\bin\Release\Nvidia tweaks by cloud.pdb
+C:\Users\Administrator\source\repos\Nvidia tweaks by cloud\Nvidia tweaks by cloud\obj\Release\Nvidia tweaks by cloud.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Nvidia tweaks by cloud\Nvidia tweaks by cloud\obj\Release\Nvidia_tweaks_by_cloud.Form1.resources
+C:\Users\Administrator\source\repos\Nvidia tweaks by cloud\Nvidia tweaks by cloud\obj\Release\Nvidia_tweaks_by_cloud.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Nvidia tweaks by cloud\Nvidia tweaks by cloud\obj\Release\Nvidia tweaks by cloud.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Nvidia tweaks by cloud\Nvidia tweaks by cloud\obj\Release\Nvidia tweaks by cloud.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Nvidia tweaks by cloud\Nvidia tweaks by cloud\obj\Release\Nvidia tweaks by cloud.exe
+C:\Users\Administrator\source\repos\Nvidia tweaks by cloud\Nvidia tweaks by cloud\obj\Release\Nvidia tweaks by cloud.pdb
