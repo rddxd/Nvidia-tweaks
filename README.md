@@ -2,6 +2,7 @@
 > The program designed to optimize time and provide better fps, latency and feeling.
 > 
 > Toggle buttons
+> 
 > green = applied
 >dark gray = revert or does not exist
 > 
